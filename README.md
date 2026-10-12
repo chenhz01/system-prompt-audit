@@ -9,6 +9,8 @@ detection mechanics; pattern coverage is intentionally conservative.
 
 as of 2026-10-11
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 System prompts grow into multi-page policy documents reviewed by nobody.
